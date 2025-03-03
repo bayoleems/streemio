@@ -1,0 +1,7 @@
+ffmpeg-python
+yt-dlp 
+openai-whisper 
+googletrans 
+pyaudio 
+numpy
+# brew install portaudio  
